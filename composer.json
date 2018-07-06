@@ -7,6 +7,7 @@
         }
     ],
     "require": {},
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": { "ArrayCollection\\": "src/" }
     }
