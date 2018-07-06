@@ -26,7 +26,7 @@ interface Jsonable
     public function toJson($options = 0);
 }
 
-class ArrayCollection
+class Collection
 {
     /**
      * The items contained in the collection.
