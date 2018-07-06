@@ -9,6 +9,6 @@
     "require": {},
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": { "ArrayCollection\\": "src/" }
+        "psr-4": { "Collection\\": "src/" }
     }
 }
