@@ -1,0 +1,13 @@
+{
+    "name": "wisonlau/ArrayCollection",
+    "authors": [
+        {
+            "name": "wisonlau",
+            "email": "122022066@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "ArrayCollection\\": "src/" }
+    }
+}
