@@ -26,7 +26,7 @@ interface Jsonable
     public function toJson($options = 0);
 }
 
-class Collection
+class Collection implements Arrayable,Jsonable
 {
     /**
      * The items contained in the collection.
